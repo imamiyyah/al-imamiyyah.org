@@ -9,4 +9,4 @@ export default defineConfig({
   integrations: [tailwind({
     applyBaseStyles: true
   }), mdx(), react()]
-});
+}); 
